@@ -1,0 +1,154 @@
+.section3 {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-left: 310px;
+    max-width: 1280px;
+
+}
+
+
+
+.box1 {
+    background-image: url(paan-corner_web.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box2 {
+    background-image: url(Slice-2_10.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box3 {
+    background-image: url(veg.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box4 {
+    background-image: url(cold.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box5 {
+    background-image: url(snacks.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box6 {
+    background-image: url(instant\ ffod.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box7 {
+    background-image: url(sweet.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box8 {
+    background-image: url(baker.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box9 {
+    background-image: url(tea.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box10 {
+    background-image: url(atta.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box11 {
+    background-image: url(masala.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box12 {
+    background-image: url(sauces.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box13 {
+    background-image: url(chicken.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box14 {
+    background-image: url(organic.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box15 {
+    background-image: url(baby.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box16 {
+    background-image: url(pharma.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box17 {
+    background-image: url(clean.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box18 {
+    background-image: url(home.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box19 {
+    background-image: url(personal.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.box20 {
+    background-image: url(Slice-20.jpg);
+    width: 10%;
+    height: 200px;
+    background-size: cover;
+}
+
+.foot {
+    margin: 100px 700px 100px 800px;
+}
